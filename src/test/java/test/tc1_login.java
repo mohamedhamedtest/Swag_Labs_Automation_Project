@@ -25,7 +25,7 @@ public class tc1_login {
     private WebDriver Driver;
 
 
-    @BeforeMethod(alwaysRun = true)
+    @BeforeMethod()
     public void setUp() throws Exception {
         String browser = System.getProperty("browser") != null ? System.getProperty("browser") : json.GETPropertriesData("pro", "browser");
         log.info(System.getProperty("browser"));
@@ -67,7 +67,7 @@ public class tc1_login {
         Assert.assertTrue(new pag1_login(getDriver()).Assert(json.GETPropertriesData("pro", "url2")));
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() throws Exception {
         quite();
     }
