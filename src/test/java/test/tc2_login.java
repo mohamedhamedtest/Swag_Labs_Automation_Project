@@ -46,7 +46,7 @@ public class tc2_login {
     }
 
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setUp() throws Exception {
 
         setDriver(json.GETPropertriesData("pro", "browser"));
