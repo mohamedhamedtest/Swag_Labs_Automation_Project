@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="login_suit">
+    <listeners>
+        <listener class-name="Listeners.itest"></listener>
+        <listener class-name="Listeners.iinvokedmethod"></listener>
+    </listeners>
+    <test name="login_test">
+
+        <classes>
+            <class name="test.tc1_login"></class>
+        </classes>
+
+    </test>
+</suite>

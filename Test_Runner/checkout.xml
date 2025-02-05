@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="checkout_suit">
+    <listeners>
+        <listener class-name="Listeners.itest"></listener>
+        <listener class-name="Listeners.iinvokedmethod"></listener>
+    </listeners>
+    <test name="checkout_test">
+
+        <classes>
+            <class name="test.tc4_login"></class>
+        </classes>
+
+    </test>
+</suite>

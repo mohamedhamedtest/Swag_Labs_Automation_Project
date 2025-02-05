@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="regreshion_suit">
+    <listeners>
+        <listener class-name="Listeners.itest"></listener>
+        <listener class-name="Listeners.iinvokedmethod"></listener>
+    </listeners>
+    <test name="regreshion_test">
+
+        <classes>
+            <class name="test.tc1_login"></class>
+            <class name="test.tc2_login"></class>
+            <class name="test.tc3_login"></class>
+            <class name="test.tc4_login"></class>
+            <class name="test.tc5_login"></class>
+            <class name="test.tc6_login"></class>
+        </classes>
+
+    </test>
+</suite>

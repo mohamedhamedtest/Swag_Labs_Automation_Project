@@ -1,0 +1,9 @@
+[INFO] 04-02-2025 12:23:15 [main] [test.tc1_login.setUp(tc1_login.java:31)] null
+[INFO] 04-02-2025 12:23:15 [main] [test.tc1_login.setUp(tc1_login.java:32)] Browser: chrome
+[INFO] 04-02-2025 12:23:18 [main] [test.tc1_login.setUp(tc1_login.java:35)] open pag
+[INFO] 04-02-2025 12:23:20 [main] [test.tc1_login.setUp(tc1_login.java:37)] page is open 
+[INFO] 04-02-2025 12:23:20 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 12:23:21 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 12:23:23 [main] [test.tc1_login.login(tc1_login.java:64)] page is opefqewen 
+[INFO] 04-02-2025 12:23:23 [main] [Listeners.iinvokedmethod] Test Failed!
+[INFO] 04-02-2025 12:23:24 [main] [Listeners.iinvokedmethod] Test Passed Successfully!

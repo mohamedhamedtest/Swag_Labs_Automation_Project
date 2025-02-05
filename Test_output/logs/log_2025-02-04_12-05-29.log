@@ -1,0 +1,10 @@
+[INFO] 04-02-2025 12:05:30 [main] [test.tc1_login.setUp(tc1_login.java:31)] edge
+[INFO] 04-02-2025 12:05:30 [main] [test.tc1_login.setUp(tc1_login.java:32)] Browser: edge
+[INFO] 04-02-2025 12:05:33 [main] [test.tc1_login.setUp(tc1_login.java:35)] open pag
+[INFO] 04-02-2025 12:05:34 [main] [test.tc1_login.setUp(tc1_login.java:37)] page is open 
+[INFO] 04-02-2025 12:05:35 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 12:05:35 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 12:05:38 [main] [test.tc1_login.login(tc1_login.java:64)] page is opefqewen 
+[INFO] 04-02-2025 12:05:39 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 12:05:39 [main] [Listeners.itest] test caseloginpass
+[INFO] 04-02-2025 12:05:40 [main] [Listeners.iinvokedmethod] Test Passed Successfully!

@@ -1,0 +1,91 @@
+[INFO] 04-02-2025 09:46:21 [main] [test.tc1_login.setUp(tc1_login.java:31)] open pag
+[INFO] 04-02-2025 09:46:22 [main] [test.tc1_login.setUp(tc1_login.java:33)] page is open 
+[INFO] 04-02-2025 09:46:23 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:23 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 09:46:32 [main] [test.tc1_login.login(tc1_login.java:45)] page is opefqewen 
+[INFO] 04-02-2025 09:46:33 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:33 [main] [Listeners.itest] test caseloginpass
+[INFO] 04-02-2025 09:46:33 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:35 [main] [test.tc2_login.cookies(tc2_login.java:33)] open pag
+[INFO] 04-02-2025 09:46:35 [main] [test.tc2_login.cookies(tc2_login.java:37)] page is open 
+[INFO] 04-02-2025 09:46:39 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:41 [main] [test.tc2_login.setUp(tc2_login.java:53)] open pag
+[INFO] 04-02-2025 09:46:42 [main] [test.tc2_login.setUp(tc2_login.java:57)] page is open 
+[INFO] 04-02-2025 09:46:47 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:47 [main] [Listeners.itest] test case addProductstart
+[INFO] 04-02-2025 09:46:47 [main] [page.pag2_login] start to random1
+[INFO] 04-02-2025 09:46:47 [main] [page.pag2_login] start to random3
+[INFO] 04-02-2025 09:46:47 [main] [page.pag2_login] start to random4
+[INFO] 04-02-2025 09:46:47 [main] [page.pag2_login] start to random5
+[INFO] 04-02-2025 09:46:47 [main] [page.pag2_login] number of products in select: 4
+[INFO] 04-02-2025 09:46:48 [main] [page.pag2_login] number of products : 4
+[INFO] 04-02-2025 09:46:48 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:48 [main] [Listeners.itest] test caseaddProductpass
+[INFO] 04-02-2025 09:46:48 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:50 [main] [test.tc2_login.setUp(tc2_login.java:53)] open pag
+[INFO] 04-02-2025 09:46:51 [main] [test.tc2_login.setUp(tc2_login.java:57)] page is open 
+[INFO] 04-02-2025 09:46:53 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:53 [main] [Listeners.itest] test case buttonUrlstart
+[INFO] 04-02-2025 09:46:54 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:54 [main] [Listeners.itest] test casebuttonUrlpass
+[INFO] 04-02-2025 09:46:54 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:56 [main] [test.tc2_login.setUp(tc2_login.java:53)] open pag
+[INFO] 04-02-2025 09:46:57 [main] [test.tc2_login.setUp(tc2_login.java:57)] page is open 
+[INFO] 04-02-2025 09:46:59 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:46:59 [main] [Listeners.itest] test case checkproductsstart
+[INFO] 04-02-2025 09:46:59 [main] [page.pag2_login] number of products in cart: 6
+[INFO] 04-02-2025 09:47:00 [main] [page.pag2_login] number of products in select: 6
+[INFO] 04-02-2025 09:47:01 [main] [page.pag2_login] number of products : 6
+[INFO] 04-02-2025 09:47:01 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:01 [main] [Listeners.itest] test casecheckproductspass
+[INFO] 04-02-2025 09:47:01 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:01 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:03 [main] [test.tc3_login.setUp(tc3_login.java:32)] open pag
+[INFO] 04-02-2025 09:47:04 [main] [test.tc3_login.setUp(tc3_login.java:34)] page is open 
+[INFO] 04-02-2025 09:47:04 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:04 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 09:47:07 [main] [page.pag2_login] start to random1
+[INFO] 04-02-2025 09:47:07 [main] [page.pag2_login] start to random4
+[INFO] 04-02-2025 09:47:07 [main] [page.pag2_login] price : $29.99
+[INFO] 04-02-2025 09:47:07 [main] [page.pag2_login] price : $49.99
+[INFO] 04-02-2025 09:47:07 [main] [page.pag2_login] total price : 79.98
+[INFO] 04-02-2025 09:47:08 [main] [page.pag3_login.GetPrice(pag3_login.java:32)] price : 29.99
+[INFO] 04-02-2025 09:47:08 [main] [page.pag3_login.GetPrice(pag3_login.java:32)] price : 49.99
+[INFO] 04-02-2025 09:47:08 [main] [page.pag3_login.GetPrice(pag3_login.java:36)] total price : 79.98
+[INFO] 04-02-2025 09:47:08 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:08 [main] [Listeners.itest] test caseloginpass
+[INFO] 04-02-2025 09:47:08 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:10 [main] [test.tc4_login.setUp(tc4_login.java:40)] open pag
+[INFO] 04-02-2025 09:47:10 [main] [test.tc4_login.setUp(tc4_login.java:42)] page is open 
+[INFO] 04-02-2025 09:47:11 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:11 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 09:47:14 [main] [page.pag2_login] start to random2
+[INFO] 04-02-2025 09:47:14 [main] [page.pag2_login] start to random3
+[INFO] 04-02-2025 09:47:16 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:16 [main] [Listeners.itest] test caseloginpass
+[INFO] 04-02-2025 09:47:16 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:18 [main] [test.tc5_login.setUp(tc5_login.java:40)] open pag
+[INFO] 04-02-2025 09:47:18 [main] [test.tc5_login.setUp(tc5_login.java:42)] page is open 
+[INFO] 04-02-2025 09:47:19 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:19 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 09:47:21 [main] [page.pag2_login] number of products in cart: 6
+[INFO] 04-02-2025 09:47:24 [main] [page.pag5_login.Tax(pag5_login.java:25)] Tax: $10.40
+[INFO] 04-02-2025 09:47:24 [main] [page.pag5_login.pricetotal(pag5_login.java:37)] pricetotal 140.34
+[INFO] 04-02-2025 09:47:25 [main] [page.pag5_login.Tax(pag5_login.java:25)] Tax: $10.40
+[INFO] 04-02-2025 09:47:25 [main] [page.pag5_login.total(pag5_login.java:31)] totalTotal: $140.34
+[INFO] 04-02-2025 09:47:25 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:25 [main] [Listeners.itest] test caseloginpass
+[INFO] 04-02-2025 09:47:25 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:27 [main] [test.tc6_login.setUp(tc6_login.java:42)] open pag
+[INFO] 04-02-2025 09:47:28 [main] [test.tc6_login.setUp(tc6_login.java:44)] page is open 
+[INFO] 04-02-2025 09:47:28 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:28 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 09:47:31 [main] [page.pag2_login] number of products in cart: 6
+[INFO] 04-02-2025 09:47:34 [main] [page.pag5_login.Tax(pag5_login.java:25)] Tax: $10.40
+[INFO] 04-02-2025 09:47:34 [main] [page.pag5_login.pricetotal(pag5_login.java:37)] pricetotal 140.34
+[INFO] 04-02-2025 09:47:34 [main] [page.pag5_login.Tax(pag5_login.java:25)] Tax: $10.40
+[INFO] 04-02-2025 09:47:34 [main] [page.pag5_login.total(pag5_login.java:31)] totalTotal: $140.34
+[INFO] 04-02-2025 09:47:35 [main] [page.pag6_login] THANK YOU FOR YOUR ORDE
+[INFO] 04-02-2025 09:47:35 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:47:35 [main] [Listeners.itest] test caseloginpass
+[INFO] 04-02-2025 09:47:35 [main] [Listeners.iinvokedmethod] Test Passed Successfully!

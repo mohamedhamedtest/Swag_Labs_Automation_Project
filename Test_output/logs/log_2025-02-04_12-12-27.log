@@ -1,0 +1,11 @@
+[INFO] 04-02-2025 12:12:28 [main] [test.tc1_login.setUp(tc1_login.java:34)] System.getProperty('browser'): edge
+[INFO] 04-02-2025 12:12:28 [main] [test.tc1_login.setUp(tc1_login.java:35)] Browser: edge
+[INFO] 04-02-2025 12:12:28 [main] [test.tc1_login.setUp(tc1_login.java:39)] Opening Chrome instead of Edge
+[INFO] 04-02-2025 12:12:31 [main] [test.tc1_login.setUp(tc1_login.java:45)] open page
+[INFO] 04-02-2025 12:12:32 [main] [test.tc1_login.setUp(tc1_login.java:47)] page is open 
+[INFO] 04-02-2025 12:12:32 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 12:12:33 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 12:12:36 [main] [test.tc1_login.login(tc1_login.java:74)] page is opefqewen 
+[INFO] 04-02-2025 12:12:36 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 12:12:36 [main] [Listeners.itest] test caseloginpass
+[INFO] 04-02-2025 12:12:37 [main] [Listeners.iinvokedmethod] Test Passed Successfully!

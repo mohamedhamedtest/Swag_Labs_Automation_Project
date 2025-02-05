@@ -1,0 +1,34 @@
+[INFO] 03-02-2025 10:35:10 [main] [test.tc2_login.cookies(tc2_login.java:33)] open pag
+[INFO] 03-02-2025 10:35:18 [main] [test.tc2_login.cookies(tc2_login.java:37)] page is open 
+[INFO] 03-02-2025 10:35:22 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:35:23 [main] [test.tc2_login.setUp(tc2_login.java:53)] open pag
+[INFO] 03-02-2025 10:35:25 [main] [test.tc2_login.setUp(tc2_login.java:57)] page is open 
+[INFO] 03-02-2025 10:35:41 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:35:41 [main] [Listeners.itest] test case addProductstart
+[INFO] 03-02-2025 10:35:41 [main] [page.pag2_login] start to random1
+[INFO] 03-02-2025 10:35:42 [main] [page.pag2_login] start to random2
+[INFO] 03-02-2025 10:35:42 [main] [page.pag2_login] start to random3
+[INFO] 03-02-2025 10:35:42 [main] [page.pag2_login] start to random5
+[INFO] 03-02-2025 10:35:42 [main] [page.pag2_login] number of products in select: 4
+[INFO] 03-02-2025 10:35:42 [main] [page.pag2_login] number of products : 4
+[INFO] 03-02-2025 10:35:43 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:35:43 [main] [Listeners.itest] test caseaddProductpass
+[INFO] 03-02-2025 10:35:43 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:35:45 [main] [test.tc2_login.setUp(tc2_login.java:53)] open pag
+[INFO] 03-02-2025 10:35:46 [main] [test.tc2_login.setUp(tc2_login.java:57)] page is open 
+[INFO] 03-02-2025 10:35:53 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:35:53 [main] [Listeners.itest] test case buttonUrlstart
+[INFO] 03-02-2025 10:35:54 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:35:54 [main] [Listeners.itest] test casebuttonUrlpass
+[INFO] 03-02-2025 10:35:54 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:35:56 [main] [test.tc2_login.setUp(tc2_login.java:53)] open pag
+[INFO] 03-02-2025 10:35:56 [main] [test.tc2_login.setUp(tc2_login.java:57)] page is open 
+[INFO] 03-02-2025 10:36:07 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:36:07 [main] [Listeners.itest] test case checkproductsstart
+[INFO] 03-02-2025 10:36:07 [main] [page.pag2_login] number of products in cart: 6
+[INFO] 03-02-2025 10:36:08 [main] [page.pag2_login] number of products in select: 6
+[INFO] 03-02-2025 10:36:08 [main] [page.pag2_login] number of products : 6
+[INFO] 03-02-2025 10:36:09 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:36:09 [main] [Listeners.itest] test casecheckproductspass
+[INFO] 03-02-2025 10:36:09 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 03-02-2025 10:36:09 [main] [Listeners.iinvokedmethod] Test Passed Successfully!

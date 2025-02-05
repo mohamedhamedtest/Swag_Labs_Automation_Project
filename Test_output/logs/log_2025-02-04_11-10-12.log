@@ -1,0 +1,9 @@
+[INFO] 04-02-2025 11:10:12 [main] [test.tc1_login] Browser: chroom
+[INFO] 04-02-2025 11:10:15 [main] [test.tc1_login] open pag
+[INFO] 04-02-2025 11:10:16 [main] [test.tc1_login] page is open 
+[INFO] 04-02-2025 11:10:16 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 11:10:16 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 11:10:20 [main] [test.tc1_login] page is opefqewen 
+[INFO] 04-02-2025 11:10:21 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 11:10:21 [main] [Listeners.itest] test caseloginpass
+[INFO] 04-02-2025 11:10:21 [main] [Listeners.iinvokedmethod] Test Passed Successfully!

@@ -1,0 +1,4 @@
+[INFO] 04-02-2025 09:54:16 [main] [test.tc1_login.setUp(tc1_login.java:31)] open pag
+[INFO] 04-02-2025 09:54:17 [main] [test.tc1_login.setUp(tc1_login.java:33)] page is open 
+[INFO] 04-02-2025 09:54:17 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 09:54:18 [main] [Listeners.itest] test case loginstart

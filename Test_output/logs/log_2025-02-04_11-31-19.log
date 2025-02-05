@@ -1,0 +1,10 @@
+[INFO] 04-02-2025 11:31:20 [main] [test.tc1_login] null
+[INFO] 04-02-2025 11:31:20 [main] [test.tc1_login] Browser: edge
+[INFO] 04-02-2025 11:31:23 [main] [test.tc1_login] open pag
+[INFO] 04-02-2025 11:31:24 [main] [test.tc1_login] page is open 
+[INFO] 04-02-2025 11:31:24 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 11:31:25 [main] [Listeners.itest] test case loginstart
+[INFO] 04-02-2025 11:31:28 [main] [test.tc1_login] page is opefqewen 
+[INFO] 04-02-2025 11:31:29 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 04-02-2025 11:31:29 [main] [Listeners.itest] test caseloginpass
+[INFO] 04-02-2025 11:31:31 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
