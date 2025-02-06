@@ -44,12 +44,12 @@
                 <version>${alluremaven}</version>
                 <executions>
                     <execution>
-                        <phase>test</phase>
+                        <!--<phase>test</phase>
                         <goals>
                             <goal>serve</goal>
 
                         </goals>
-
+-->
                     </execution>
                 </executions>
                 <configuration>

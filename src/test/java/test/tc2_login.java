@@ -27,7 +27,7 @@ public class tc2_login {
     private WebDriver Driver;
     private Set<Cookie> cookies;
 
-    @BeforeClass
+    @BeforeClass(alwaysRun = true)
     public void cookies() throws Exception {
         setDriver(json.GETPropertriesData("pro", "browser"));
         log.info("open pag");

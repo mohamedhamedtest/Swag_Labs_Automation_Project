@@ -25,7 +25,7 @@ public class tc1_login {
     private WebDriver Driver;
 
 
-    @BeforeMethod(alwaysRun = true)
+    @BeforeMethod()
     public void setUp() throws Exception {
         String browser = System.getProperty("browser") != null ? System.getProperty("browser") : json.GETPropertriesData("pro", "browser");
         log.info(System.getProperty("browser"));
@@ -54,7 +54,7 @@ public class tc1_login {
         getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
     }*/
 
-    @Test
+    @Test(alwaysRun = true)
     public void login() throws IOException {
         System.out.println("Working Directory = " + System.getProperty("user.dir"));
         new pag1_login(getDriver())
