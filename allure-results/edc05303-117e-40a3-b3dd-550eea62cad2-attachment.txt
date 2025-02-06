@@ -1,0 +1,4 @@
+[INFO] 06-02-2025 06:29:32 [main] [test.tc1_login.setUp(tc1_login.java:31)] null
+[INFO] 06-02-2025 06:29:39 [main] [test.tc1_login.setUp(tc1_login.java:35)] Browser: chrome
+[INFO] 06-02-2025 06:29:39 [main] [test.tc1_login.setUp(tc1_login.java:36)] open pag
+[INFO] 06-02-2025 06:29:40 [main] [test.tc1_login.setUp(tc1_login.java:38)] page is open 
